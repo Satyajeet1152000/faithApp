@@ -1,0 +1,92 @@
+{
+    "instructor": {
+        "name": "NITYANAND CHARAN DAS",
+        "profile_photo": "https://pbs.twimg.com/profile_images/1650049387224080384/WAVo3FHK_400x400.jpg",
+        "social_media": {
+            "facebook": true,
+            "twitter": true,
+            "youtube": true,
+            "instagram": true
+        }
+    },
+    "course": {
+        "title": "Learn key life lessons from the Gita: Mind control and conflict resolution",
+        "banner": "https://cdn.wionews.com/sites/default/files/inline-images/Nityanand%20Charan%20Das.jpg",
+        "fee": {
+            "amount": 5000,
+            "currency": "INR"
+        },
+        "inclusions": {
+            "on_demand_videos": 5,
+            "live_stream_session": 2,
+            "live_qa_sessions": true,
+            "whatsapp_community": true
+        },
+        "about": {
+            "html_content": "<h3><b>About the course</b></h3><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim quos minus odio maxime saepe incidunt exercitationem iste deleniti repudiandae id dicta, fugit possimus iusto mollitia asperiores at unde sint aut.</p><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim quos minus odio maxime saepe incidunt exercitationem iste deleniti repudiandae id dicta, fugit possimus iusto mollitia asperiores at unde sint aut.</p><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim quos minus odio maxime saepe incidunt exercitationem iste deleniti repudiandae id dicta, fugit possimus iusto mollitia asperiores at unde sint aut.</p>"
+        },
+        "what_to_expect": {
+            "html_content": "<h3><b>What to expect from course</b></h3><ul><li>Learn to mange your relationships</li><li>Better communication</li><li>Time management</li><li>Forgiveness</li></ul>"
+        },
+        "key_topics": {
+            "html_content": "<h3><b>Key topics covered</b></h3><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim quos minus odio maxime saepe incidunt exercitationem iste deleniti repudiandae id dicta, fugit possimus iusto mollitia asperiores at unde sint aut.</p><ol><li><b>10 written and audio sessions</b> guiding you in decoding the language of numbers so that you can easily receive their insights and messages.</li><li><b>Intuitive exercises and homework</b> walk you through the energies and values of numbers and number sequences so you can become your own authority.</li><li><b>Handy reference</b> to numerical meanings, so you can uncover your soul's gifts, challenges, lessons, and purpose – and receive spiritual guidance along your path.</li><li><b>Expert techniques</b> for manifestation offer simple ways to use numbers to co-create with the universe.</li></ol>"
+        }
+    },
+    "about_instructor": {
+        "html_content": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem eligendi repudiandae nihil blanditiis debitis placeat aut veniam, magni similique error facilis, incidunt ullam sapiente, molestias dolorum? Incidunt laudantium maiores neque.</p><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem eligendi repudiandae nihil blanditiis debitis placeat aut veniam, magni similique error facilis, incidunt ullam sapiente, molestias dolorum? Incidunt laudantium maiores neque.</p>"
+    },
+    "instructor_nav": "<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Doloremque, magni voluptate. Illo dolorum aliquam placeat maxime libero voluptatem corrupti itaque labore aperiam dolore impedit, exercitationem, iste commodi veritatis architecto eligendi.</p><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae voluptas nihil eum saepe corporis dolorem odio, commodi fugit tempora, ratione ad dolorum? Itaque assumenda voluptates explicabo beatae. Officia, aliquid unde.</p><p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Repellendus eaque nemo soluta eum non doloribus eos temporibus! Quas quo culpa, beatae ratione cum reprehenderit natus? Quam, alias! Ipsum, eum labore!</p>",
+    "reviews": [
+        {
+            "name": "Aarav Sharma",
+            "review": "Incredible insights! Learning life lessons from the Bhagwat Gita has been transformative.",
+            "star": 2
+        },
+        {
+            "name": "Kavya Patel",
+            "review": "The Bhagwat Gita has profoundly impacted my life. Its teachings are invaluable.",
+            "star": 4
+        },
+        {
+            "name": "Rahul Desai",
+            "review": "Studying the Gita has been enlightening. It's a guide to a meaningful and purposeful life.",
+            "star": 3
+        },
+        {
+            "name": "Neha Gupta",
+            "review": "The Bhagwat Gita's wisdom is timeless. A must-read for anyone seeking guidance.",
+            "star": 5
+        },
+        {
+            "name": "Aryan Singh",
+            "review": "Learning life lessons from the Bhagwat Gita has been a spiritual journey.",
+            "star": 1
+        }
+    ],
+    "testimonials": [
+        {
+            "text": "Exploring the profound depths of knowledge in the Bhagavad Gita has been a transformative experience. A must-read for spiritual seekers.",
+            "reviewer_name": "Rahul Kumar",
+            "reviewer_designation": "Senior Software Engineer",
+            "profile-url": "https://randomuser.me/api/portraits/men/32.jpg"
+        },
+        {
+            "text": "The Bhagavad Gita's teachings have provided invaluable insights into managing life's challenges. A guiding light for personal growth.",
+            "reviewer_name": "Priya Patel",
+            "reviewer_designation": "Marketing Manager",
+            "profile-url": "https://randomuser.me/api/portraits/women/17.jpg"
+        },
+        {
+            "text": "Reflecting on the Bhagavad Gita has enriched my understanding of life's purpose. Its wisdom resonates deeply within.",
+            "reviewer_name": "Amit Sharma",
+            "reviewer_designation": "Product Designer",
+            "profile-url": "https://randomuser.me/api/portraits/men/79.jpg"
+        },
+        {
+            "text": "Studying the Bhagavad Gita has been a journey of self-discovery. Its timeless principles offer solace and guidance in every aspect of life.",
+            "reviewer_name": "Neha Singh",
+            "reviewer_designation": "Financial Analyst",
+            "profile-url": "https://randomuser.me/api/portraits/women/82.jpg"
+        }
+    ]
+}

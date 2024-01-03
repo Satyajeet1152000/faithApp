@@ -112,11 +112,11 @@
     align-items: flex-end;
     display: flex;
     width: 85%;
-    margin-left: 10px;
+    margin-left: 100px;
 }
 .socialMedias a{
     padding-right:10px;
-    margin-left: 180px;
+    margin-left: 180vh;
 }
 .testimonials{
     align-items: center;

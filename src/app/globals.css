@@ -107,6 +107,7 @@
     border-radius: 50%;
 }
 .socialMedias{
+    border: 1px solid red
     flex: 1;
     align-items: flex-end;
     display: flex;
